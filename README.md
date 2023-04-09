@@ -5,7 +5,11 @@ The following was discovered as part of building this project:
 
 
 # Getting Started
+This is a authorization microservice has the following endpoints;
+/register :- to register the user
+/authenticate :-to authenticate the user
 
+The authenticatin mechanism works using JWT tokens
 ### Reference Documentation
 For further reference, please consider the following sections:
 
